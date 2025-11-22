@@ -1,0 +1,26 @@
+particle_numbers:
+  num_partA: 50
+  num_partB: 50
+
+particle_sizes:
+  radiusA: 2.0
+  radiusB: 1.0
+
+particle_masses:
+  massA: 2.0
+  massB: 1.0
+
+box_dimensions:
+  box_min: 0.0
+  box_max: 1.0
+  box_size: 1.0
+
+gas_temperatures:
+  TA: 1
+  TB: 100
+
+simulation_parameters:
+  dt: 0.001
+  steps: 8
+
+
