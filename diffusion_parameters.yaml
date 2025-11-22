@@ -16,11 +16,11 @@ box_dimensions:
   box_size: 1.0
 
 gas_temperatures:
-  TA: 1
-  TB: 100
+  TA: 0.5
+  TB: 10
 
 simulation_parameters:
-  dt: 0.001
+  dt: 0.002
   steps: 8
 
 
